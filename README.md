@@ -1,7 +1,54 @@
 # My Projects
 
+
+## Frameworks and Libraries
+  * ### [PDO-DB-CONNECT `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/php/PDO_DB_CONNECT)
+    * It's a vanilla `PHP` library helps the users to connect to any type of database and do any operation easily.
+
+  * ### [useLoadData `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useLoadData)
+    * It's a `react` `custom hook` to load data from the api
+
+## Frontend
+  * ### [StarBucks Landing Page `click to visit`](https://mohammedelgohary.github.io/starbucks_landing_page/)
+    * Vanilla  Testing app
+    * Responsive Design
+    * Some nice animations
+
+  * ### [Coming Soon Landing Page `click to visit`](https://mohammedelgohary.github.io/comming_soon/)
+    * Vanilla  Testing app
+    * Responsive Design
+    * Some nice animations
+    * Sound Background Effects
+
+  * ### [React Todo List `click to visit`](https://react-to-do-list-delta.vercel.app/)
+    * React App With `React Hooks`
+    * Responsive Design
+    * Awesome messages
+    * Good User Experience `UX`
+    * LocalStorage Saving
+
+  * ### [Books App `click to visit`](https://my-library-app-amber.vercel.app/)
+    * React Books App With `React Class Component`
+    * Api Fetch Data and Searching
+    * Search Waiting
+
+  * ### [Encoder `click to visit`](https://mohammedelgohary.github.io/encoder/)
+    * Vanilla `Javascript` logical app to hide a text and make it an other text using a password
+    * Theming
+    * Multi Language
+    * LocalStorage Saving
+
+  * ### [Salary Calculator `click to visit`](https://mohammedelgohary.github.io/SalaryCalaultor/)
+    * Vanilla `Javascript` logical app to help our team now every thing about the salary, days time-line, holidays and spent time.
+    * Gives us a full report in a `JSON` format.
+
+  * ### [NewConcept website `click to visit`](https://newconcept.education/)
+    * Designed an educational website using `Next.js`
+    * Wrote [`React` hooks](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks) that helps the team to finish the work faster
+
+
 ## Full Stack
-  * ### [AdumCar](https://adumcar.com/)
+  * ### [AdumCar `click to visit`](https://adumcar.com/)
     * Edited the `node js` core system and added some features
     * Linked the backend APIS to the Frontend
     * Re-structured the project structure
@@ -12,31 +59,23 @@
     * Used `Mongoose` to connect to database
     * Linked this rest api to its dashboard
 
-  * ### [Best-Cleaner](https://best-cleaner.com/)
+  * ### [Best-Cleaner `click to visit`](https://best-cleaner.com/)
     * Designed the database using `MySQL`
     * Wrote the rest api with `node js` and `express`
     * Linked the backend APIS to the Frontend and the Dashboard
 
-  * ### [Pyramids](https://pyramidsagri.com/en/)
+  * ### [Pyramids `click to visit`](https://pyramidsagri.com/en/)
     * Designed the database using `MySQL`
     * Wrote the rest api with `node js` and `express`
     * Linked the backend APIS to the Frontend and the Dashboard
     * Developed a new way to add translation to the site to enhance `SEO`
 
-  * ### [Souq-Alafdal](https://bsmeg.com/)
+  * ### [Souq-Alafdal `click to visit`](https://bsmeg.com/)
     * Designed the database using `MySQL`
     * Wrote the rest api with `node js` and `express`
     * Linked the backend APIS to the Frontend and the Dashboard
 
-  * ### [SunIva](https://sunivaeg.com/)
+  * ### [SunIva `click to visit`](https://sunivaeg.com/)
     * Designed the database using `MySQL`
     * Wrote the rest api with `node js` and `express`
     * Linked the backend APIS to the Frontend and the Dashboard
-
-
-## Frontend
-  * ### [NewConcept website](https://newconcept.education/)
-    * Designed an educational website using `Next.js`
-    * Wrote [`React` hooks](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks) that helps the team to finish the work faster
-
-
