@@ -8,6 +8,9 @@
   * ### [useLoadData `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useLoadData)
     * It's a `react` `custom hook` to load data from the api
 
+  * ### [useOnline `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useOnline)
+    * It's a `react` `custom hook` to automatically detect if use is connected to the internet or not.
+
 ## Frontend
   * ### [StarBucks Landing Page `click to visit`](https://mohammedelgohary.github.io/starbucks_landing_page/)
     * Vanilla  Testing app
