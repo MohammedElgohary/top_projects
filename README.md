@@ -1,23 +1,5 @@
 # My Projects
 
-## Frameworks and Libraries
-
-- ### [PDO-DB-CONNECT `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/php/PDO_DB_CONNECT)
-
-  - It's a vanilla `PHP` library helps the users to connect to any type of database and do any operation easily.
-
-- ### [useLoadData `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useLoadData)
-
-  - It's a `react` `custom hook` to load data from the api
-
-- ### [useTimer `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useTimer)
-
-  - It's a `react` `custom hook` to count down from specific time in minutes you can pass the duration in minutes and it will give you a start, stop and rest functions and the displayedTime
-  - It helps us much when we deal with exams timer
-
-- ### [useOnline `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useOnline)
-  - It's a `react` `custom hook` to automatically detect if use is connected to the internet or not.
-
 ## Frontend
 
 - ### [StarBucks Landing Page `click to visit`](https://mohammedelgohary.github.io/starbucks_landing_page/)
@@ -70,6 +52,24 @@
 - ### [NewConcept website `click to visit`](https://newconcept.education/)
   - Designed an educational website using `Next.js`
   - Wrote [`React` hooks](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks) that helps the team to finish the work faster
+
+## Frameworks and Libraries
+
+- ### [PDO-DB-CONNECT `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/php/PDO_DB_CONNECT)
+
+  - It's a vanilla `PHP` library helps the users to connect to any type of database and do any operation easily.
+
+- ### [useLoadData `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useLoadData)
+
+  - It's a `react` `custom hook` to load data from the api
+
+- ### [useTimer `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useTimer)
+
+  - It's a `react` `custom hook` to count down from specific time in minutes you can pass the duration in minutes and it will give you a start, stop and rest functions and the displayedTime
+  - It helps us much when we deal with exams timer
+
+- ### [useOnline `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useOnline)
+  - It's a `react` `custom hook` to automatically detect if use is connected to the internet or not.
 
 ## Full Stack
 
