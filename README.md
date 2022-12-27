@@ -59,17 +59,9 @@
 
   - It's a vanilla `PHP` library helps the users to connect to any type of database and do any operation easily.
 
-- ### [useLoadData `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useLoadData)
+- ### [React hooks `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/hooks)
 
-  - It's a `react` `custom hook` to load data from the api
-
-- ### [useTimer `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useTimer)
-
-  - It's a `react` `custom hook` to count down from specific time in minutes you can pass the duration in minutes and it will give you a start, stop and rest functions and the displayedTime
-  - It helps us much when we deal with exams timer
-
-- ### [useOnline `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/useOnline)
-  - It's a `react` `custom hook` to automatically detect if use is connected to the internet or not.
+  - `React` `custom hooks`
 
 ## Full Stack
 
