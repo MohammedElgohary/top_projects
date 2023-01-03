@@ -55,11 +55,11 @@
 
 ## Frameworks and Libraries
 
-- ### [PDO-DB-CONNECT `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/php/PDO_DB_CONNECT)
+- ### [PDO-DB-CONNECT `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/php/PDO_DB_CONNECT)
 
   - It's a vanilla `PHP` library helps the users to connect to any type of database and do any operation easily.
 
-- ### [React hooks `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/frmaeworks/react/hooks/hooks)
+- ### [React hooks `click to visit`](https://github.com/MohammedElgohary/portfolio/tree/main/react-hooks/hooks)
 
   - `React` `custom hooks`
 
